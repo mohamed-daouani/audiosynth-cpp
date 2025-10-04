@@ -1,0 +1,21 @@
+# Fichiers de build CMake
+cmake-build-*/
+build/
+
+# Fichiers de configuration IDE
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# Fichiers compilés
+*.o
+*.obj
+*.exe
+*.so
+*.dylib
+
+# Fichiers temporaires
+*.swp
+*~
+.DS_Store 
